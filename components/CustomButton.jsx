@@ -6,7 +6,9 @@ const CustomButton = () => {
     <TouchableOpacity
       className={`bg-secondary rounded-xl min-h-[62] justify-center items-center`}
     >
-      <Text className={"text-primary font-psemibold"}>CustomButton</Text>
+      <Text className={"text-primary font-psemibold text-lg"}>
+        
+      </Text>
     </TouchableOpacity>
   );
 };
